@@ -1,0 +1,8 @@
+{
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorSurroundingLines": 0,
+    "editor.cursorSurroundingLinesStyle": "all",
+    "editor.cursorWidth": 0,
+    "editor.find.autoFindInSelection": "multiline",
+    "editor.fontSize": 14
+}

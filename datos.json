@@ -1,0 +1,46 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "name": "daniel",
+            "avatar": "./avatar.jpeg",
+            "description": "estoy de paseo con mis amigos",
+            "imagen": "./images.jpg"
+        },
+        {
+            "id": 2,
+            "name": "cristian David",
+            "avatar": "./avatar1.jpeg",
+            "description": "mi nueva publicacion",
+            "imagen": "./images1.jpg"
+        },
+        {
+            "id": 3,
+            "name": "juan jose",
+            "avatar": "./avatar2.jpeg",
+            "description": "foto en este lugar",
+            "imagen": "./images3.jpg"
+        },
+        {
+            "id": 1,
+            "name": "daniel",
+            "avatar": "./avatar.jpeg",
+            "description": "estoy de paseo con mis amigos",
+            "imagen": "./images.jpg"
+        },
+        {
+            "id": 2,
+            "name": "cristian David",
+            "avatar": "./avatar1.jpeg",
+            "description": "mi nueva publicacion",
+            "imagen": "./images1.jpg"
+        },
+        {
+            "id": 1,
+            "name": "daniel",
+            "avatar": "./avatar.jpeg",
+            "description": "estoy de paseo con mis amigos",
+            "imagen": "./images.jpg"
+        }
+    ]
+}
